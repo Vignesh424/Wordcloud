@@ -1,0 +1,6 @@
+1. Open python notebook from Google Colab 
+2. Add text file movie_list.txt 
+3. Add font file LEMONMILK-Medium.otf
+4. Add Mask image video-300x300
+5. After all steps,Execute the program (makesure the libraries are installed using pip before you execute)
+
