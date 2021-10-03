@@ -3,11 +3,11 @@ animation
 animator
 audio 
 described 
-audio description
-best boy
+audio-description
+best-boy
 bioscope
 Bollywood
-boombox office
+boombox-office
 cameraman
 camerawork
 cancanon
@@ -22,11 +22,12 @@ cinematographer
 cinematography
 clapperboard
 clipclose
-upcomputer
-generated imagery
+computer
+imagery
 continuity
-counterprogramming
-creditdouble 
+counter-programming
+credit
+double 
 feature
 extrafade 
 film 
@@ -35,7 +36,8 @@ goerfilm
 goingfilm
 filming
 filmstrip
-flickfootage
+flick
+footage
 frame
 franchise
 freeze-frame
@@ -43,14 +45,16 @@ gaffer
 Hollywood
 IMAX
 motion picture
-animation storyboard
+animation 
+storyboard
 studio
 stunt
 subtitle
 take
 technic
-colorthe big screen
-the silver screen
+color 
+big-screen
+silver-screen
 theatrical
 theatrically
 time-lapse
@@ -72,7 +76,8 @@ reels
 cinema
 celluoid
 picture
-movie projector
+movie 
+projector
 shoot
 television
 motion-pictures
